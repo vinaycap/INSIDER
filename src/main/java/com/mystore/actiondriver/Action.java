@@ -32,6 +32,10 @@ import com.mystore.base.BaseClass;
 /**
  * @author Hitendra Verma added on 13th March2019
  *
+<<<<<<< HEAD
+=======
+ *
+>>>>>>> branch 'master' of https://github.com/vinaycap/INSIDER.git
  */
 public class Action extends BaseClass implements ActionInterface {
 
