@@ -11,6 +11,7 @@
 				<include name="Smoke"></include>
 			</run>
 		</groups>
+		
 		<classes>
 			<class name="com.mystore.testcases.HomePageTest" />
 			<class name="com.mystore.testcases.OrderPageTest" />
